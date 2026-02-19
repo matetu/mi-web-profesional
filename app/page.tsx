@@ -123,7 +123,7 @@ export default function Home() {
             <a href="mailto:alvarezgazzemateo@gmail.com" className="rounded-full border border-zinc-700 bg-zinc-900/50 px-6 py-3 text-sm text-zinc-300 transition hover:border-cyan-500/50 hover:text-cyan-400">
               Email
             </a>
-            <a href="www.linkedin.com/in/mateo-alvarez-gazze-5538a6354" target="_blank" rel="noopener noreferrer" className="rounded-full border border-zinc-700 bg-zinc-900/50 px-6 py-3 text-sm text-zinc-300 transition hover:border-cyan-500/50 hover:text-cyan-400">
+            <a href="https://www.linkedin.com/in/mateo-alvarez-gazze-5538a6354" target="_blank" rel="noopener noreferrer" className="rounded-full border border-zinc-700 bg-zinc-900/50 px-6 py-3 text-sm text-zinc-300 transition hover:border-cyan-500/50 hover:text-cyan-400">
               LinkedIn
             </a>
             <a href="https://github.com/matetu" target="_blank" rel="noopener noreferrer" className="rounded-full border border-zinc-700 bg-zinc-900/50 px-6 py-3 text-sm text-zinc-300 transition hover:border-cyan-500/50 hover:text-cyan-400">
