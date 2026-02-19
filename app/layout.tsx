@@ -13,8 +13,18 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Mateo | Systems Engineering & AI",
-  description: "Portfolio of Mateo — Systems Engineering student at UTN FRC. Engineering meets AI.",
+  title: "Mateo | Systems Engineering Student & Developer",
+  description: "Portfolio of Mateo, a 2nd-year Systems Engineering student at UTN FRC. Specialized in Python, AI automation, and web development. Fluent in English (C1).",
+  keywords: ["Systems Engineering", "UTN FRC", "Python Developer", "AI Automation", "Software Engineering Student", "Argentina"],
+  authors: [{ name: "Mateo" }],
+  openGraph: {
+    title: "Mateo | Software Developer Portfolio",
+    description: "Discover my projects in Python, AI, and web development.",
+    url: "https://mi-web-profesional-six.vercel.app/",
+    siteName: "Mateo Portfolio",
+    locale: "en_US",
+    type: "website",
+  },
 };
 
 export default function RootLayout({
